@@ -2,7 +2,6 @@
   "name": "html-js",
   "version": "0.0.1",
   "description": "js to html converter",
-  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
@@ -19,7 +18,6 @@
   },
   "homepage": "https://github.com/marcomag89/html.js#readme",
   "dependencies": {
-    "lodash": "^4.17.10",
     "pretty": "^2.0.0"
   },
   "devDependencies": {
